@@ -2,6 +2,9 @@
   "name": "cckj-utils",
   "version": "1.0.0",
   "description": "🚀 促成科技前端常用公共函数 🚀",
+  "dependencies": {
+    "uuid": "^3.3.2"
+  },
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
